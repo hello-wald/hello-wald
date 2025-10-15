@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **hello-wald/hello-wald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <br>
+  <br>
+  <br>
+  <samp>Hey → I'm <a href="https://catherinealyssa.site">Catherine</a>.<br> I'm a Full-stack Developer and AI Engineer from Indonesia.<br><br>#typescript, #go, #python, #php</samp>
+  <br>
+  <br>
+  <br>
+  <br>
+  <img src="https://media.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif" width="350" />
+  <br>
+  <br>
+</p>
