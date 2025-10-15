@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <br>
-  <br>
-  <br>
   <samp>Hey → I'm <a href="https://catherinealyssa.site">Catherine</a>.<br> I'm a Full-stack Developer and AI Engineer from Indonesia.<br><br>#typescript, #go, #python, #php</samp>
   <br>
   <br>
